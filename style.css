@@ -413,11 +413,11 @@ section:nth-child(2n+1){
 
 .portfolio-details h5 {
     margin: 2%;
-    color: blue;
+    color: yellowgreen;
 }
 
 .portfolio-details p {
-    font-size: 20px;
+    font-size: 18px;
     margin: 6%;
     text-align: start;
 }
